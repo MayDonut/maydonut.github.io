@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  font-family: 'Roboto', sans-serif;
+  color: cadetblue;
+}
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+#intro {
+  text-align: center;
+}
+#havefun {
+  font-size: 25px;
+}
+a:link {
+  text-decoration: none;
+  color: #20ad6b;
+  background: transparent;
+}
+a:visited {
+  text-decoration: none;
+  color: #20ad6b;
+  background: transparent;
+}
