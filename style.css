@@ -1,11 +1,12 @@
 body {
-  background-color: black;
+  background-color: #121212;
   font-family: 'Roboto', sans-serif;
   color: cadetblue;
 }
 h1 {
     text-align: center;
     font-size: 35px;
+    padding-top: 90px;
 }
 #intro {
   text-align: center;
