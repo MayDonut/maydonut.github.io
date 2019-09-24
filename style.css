@@ -1,5 +1,5 @@
 body {
-  background-color: #121212;
+  background-color: #080808;
   font-family: 'Roboto', sans-serif;
   color: cadetblue;
 }
@@ -11,7 +11,7 @@ h1 {
 #intro {
   text-align: center;
 }
-#havefun {
+#telegram {
   font-size: 25px;
 }
 a:link {
