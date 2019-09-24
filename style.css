@@ -6,7 +6,7 @@ body {
 h1 {
     text-align: center;
     font-size: 35px;
-    padding-top: 90px;
+    padding-top: 75px;
 }
 #intro {
   text-align: center;
@@ -14,13 +14,17 @@ h1 {
 #telegram {
   font-size: 25px;
 }
+#pages {
+  color: #ffffff;
+  background-color: #202020;
+}
 a:link {
   text-decoration: none;
-  color: #20ad6b;
+  color: #188f57;
   background: transparent;
 }
 a:visited {
   text-decoration: none;
-  color: #20ad6b;
+  color: #188f57;
   background: transparent;
 }
