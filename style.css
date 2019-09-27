@@ -16,7 +16,9 @@ h1 {
 }
 #pages {
   color: #ffffff;
-  background-color: #202020;
+}
+#time {
+  color: #3a6460
 }
 a:link {
   text-decoration: none;
