@@ -1,2 +1,2 @@
 # maydonut.github.io
-it's a website
+my silly little website that is never updated (other than right this moment)
